@@ -11,6 +11,7 @@ Sou um Desenvolvedor focado em **Inteligência Artificial** e **Machine Learning
 - **IA Generativa & RAG:** LangChain (LCEL), Google Gemini API, OpenAI API.
 - **Bancos de Dados Vetoriais:** FAISS (Busca Semântica e Indexação).
 - **Backend:** FastAPI (Criação de APIs para integração de modelos de IA) e Streamlit.
+- **Machine Learning Aplicado:** Vetorização de dados (Embeddings), Busca Semântica por Similaridade e Pré-processamento de dados textuais (NLP).
 
 #### **📚 Em Estudo e Desenvolvimento**
 - **Machine Learning:** Scikit-learn (Modelos de classificação e regressão), Pandas e NumPy para análise de dados.
